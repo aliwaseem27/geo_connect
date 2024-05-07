@@ -1,0 +1,5 @@
+package com.aliwaseem.geo_connect
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
